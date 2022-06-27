@@ -17,6 +17,8 @@ Este projeto se baseia em uma API REST. Foi utilizado o framework express para c
 
 ###### Siga os passos abaixo
 -Instale todos os frameworks e bibliotecas.
+
 -Baixe e instale o postman para realizar as requisições e repostas.
+
 -Conecte-se ao banco de dados da sua preferência (MongoDB foi utilizado no projeto).
 
