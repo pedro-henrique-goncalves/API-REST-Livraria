@@ -13,7 +13,7 @@ Este projeto se baseia em uma API REST. Foi utilizado o framework express para c
 
 ###### Clone o projeto e tenha acesso a pasta
 
--https://github.com/pedro-henrique-goncalves/Livraria-node.git
+-git clone https://github.com/pedro-henrique-goncalves/Livraria-node.git
 
 ###### Siga os passos abaixo
 -Instale todos os frameworks e bibliotecas.
