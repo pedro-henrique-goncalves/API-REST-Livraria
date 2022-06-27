@@ -13,7 +13,7 @@ Este projeto se baseia em uma API REST. Foi utilizado o framework express para c
 
 ###### Clone o projeto e tenha acesso a pasta
 
--git clone https://github.com/pedro-henrique-goncalves/Livraria-node.git
+-https://github.com/pedro-henrique-goncalves/Livraria-node.git
 
 ###### Siga os passos abaixo
 -Instale todos os frameworks e bibliotecas.
@@ -21,4 +21,3 @@ Este projeto se baseia em uma API REST. Foi utilizado o framework express para c
 -Baixe e instale o postman para realizar as requisições e repostas.
 
 -Conecte-se ao banco de dados da sua preferência (MongoDB foi utilizado no projeto).
-
